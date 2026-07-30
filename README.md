@@ -41,9 +41,11 @@ Overview of my academic background, interests, and career goals.
 * Power BI
 * Tableau
 * Excel
-* Machine Learning
 * Data Analysis
+* Business intelligence
+* Machine Learning
 * Git & GitHub
+* Google Workspace ( Google Docs, Google Sheets, Google Slides )
 
 ### Projects
 
@@ -67,7 +69,7 @@ Developed a machine learning model to predict Air Quality Index using data from 
 ### Education
 
 🎓  Master of Computer Applications (AI & ML) | Galgotias University, Greater Noida | CGPA 9.65 • Expected 2027
-🎓  Bachelor of Computer Applications | Shri Ramswaroop Memorial University, Barabanki | CGPA 8.01 • 2025
+<br>🎓  Bachelor of Computer Applications | Shri Ramswaroop Memorial University, Barabanki | CGPA 8.01 • 2025
 
 ### Certifications
 
