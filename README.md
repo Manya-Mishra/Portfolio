@@ -66,6 +66,15 @@ Developed a machine learning model to predict Air Quality Index using data from 
 
 ### Education
 
+🎓  Master of Computer Applications
+    (AI & ML)
+    Galgotias University, Greater Noida
+    CGPA 9.65 • Expected 2027
+
+🎓  Bachelor of Computer Applications
+    Shri Ramswaroop Memorial University, Barabanki
+    CGPA 8.01 • 2025
+
 ### Certifications
 
 * Python (Basic) – HackerRank
@@ -93,8 +102,8 @@ This portfolio was created to:
 
 ## 📬 Connect With Me
 
-* LinkedIn: [Add your LinkedIn profile link](https://www.linkedin.com/in/manya-mishra-2986a324b/)
-* GitHub: [Add your GitHub profile link](https://github.com/Manya-Mishra)
+* LinkedIn: [Manya-Mishra-linkedin](https://www.linkedin.com/in/manya-mishra-2986a324b/)
+* GitHub: [Manya-Mishra-github](https://github.com/Manya-Mishra)
 * Email: manyamishra82@gmail.com
 
 ---
