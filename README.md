@@ -66,14 +66,8 @@ Developed a machine learning model to predict Air Quality Index using data from 
 
 ### Education
 
-🎓  Master of Computer Applications
-    (AI & ML)
-    Galgotias University, Greater Noida
-    CGPA 9.65 • Expected 2027
-
-🎓  Bachelor of Computer Applications
-    Shri Ramswaroop Memorial University, Barabanki
-    CGPA 8.01 • 2025
+🎓  Master of Computer Applications (AI & ML) | Galgotias University, Greater Noida | CGPA 9.65 • Expected 2027
+🎓  Bachelor of Computer Applications | Shri Ramswaroop Memorial University, Barabanki | CGPA 8.01 • 2025
 
 ### Certifications
 
@@ -98,7 +92,7 @@ This portfolio was created to:
 
 ## 🔗 Live Demo
 
-[Add your deployed GitHub Pages link here.](https://manya-mishra.github.io/Portfolio/)
+[PORTFOLIO](https://manya-mishra.github.io/Portfolio/)
 
 ## 📬 Connect With Me
 
