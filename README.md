@@ -59,12 +59,20 @@ Performed exploratory data analysis and predictive modeling on telecom customer 
 
 Developed a machine learning model to predict Air Quality Index using data from 26 Indian cities and 29,531 daily records.
 
+### Experience
+
+* Deloitte Australia Data Analytics Virtual Experience – Forage
+* TATA Data Analytics Virtual Experience – Forage
+
+### Education
+
 ### Certifications
 
 * Python (Basic) – HackerRank
 * SQL (Intermediate) – HackerRank
+* Generative AI Foundations — AWS Academy Graduate
+* Machine Learning Foundations — AWS Academy Graduate
 * DBMS – Great Learning
-* Deloitte Australia Data Analytics Virtual Experience – Forage
 
 ### Contact
 
@@ -81,13 +89,13 @@ This portfolio was created to:
 
 ## 🔗 Live Demo
 
-Add your deployed GitHub Pages link here.
+[Add your deployed GitHub Pages link here.](https://manya-mishra.github.io/Portfolio/)
 
 ## 📬 Connect With Me
 
-* LinkedIn: Add your LinkedIn profile link
-* GitHub: Add your GitHub profile link
-* Email: Add your email address
+* LinkedIn: [Add your LinkedIn profile link](https://www.linkedin.com/in/manya-mishra-2986a324b/)
+* GitHub: [Add your GitHub profile link](https://github.com/Manya-Mishra)
+* Email: manyamishra82@gmail.com
 
 ---
 
